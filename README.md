@@ -2,6 +2,10 @@
 
 A lightweight, command-line based Contact Management System implemented in C. This project provides a simple yet functional way to manage your contacts through an easy-to-use text interface.
 
+## Screenshots
+
+[![Demo Screenshot 1](https://github.com/Daniish-Qureshi/Contact-Mangement-System-in-C/blob/main/demo.png)]
+
 ## 🚀 Features
 
 - Add new contacts with name, phone, and email
