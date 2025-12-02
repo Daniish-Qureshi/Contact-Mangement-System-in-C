@@ -4,7 +4,7 @@ A lightweight, command-line based Contact Management System implemented in C. Th
 
 ## Screenshots
 
-[![Demo Screenshot 1](https://github.com/Daniish-Qureshi/Contact-Mangement-System-in-C/blob/main/demo.png)]
+![Demo Screenshot 1](https://github.com/Daniish-Qureshi/Contact-Mangement-System-in-C/blob/main/demo.png)
 
 ## 🚀 Features
 
@@ -156,3 +156,4 @@ For any queries or feedback, feel free to reach out:
 
 - Thanks to all contributors who have helped improve this project.
 - Inspired by the need for simple, educational C projects.
+
